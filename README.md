@@ -1,4 +1,4 @@
-# gruppo_Samoy-Fasulo.py
+# PYGAME
 Pygame
 
 
